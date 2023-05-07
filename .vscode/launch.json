@@ -1,0 +1,364 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch power",
+            "request": "launch",
+            "mainClass": "power",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch function",
+            "request": "launch",
+            "mainClass": "function",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch atoi",
+            "request": "launch",
+            "mainClass": "atoi",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch kth",
+            "request": "launch",
+            "mainClass": "string.kth",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch string",
+            "request": "launch",
+            "mainClass": "string.string",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "string.Solution",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch deletemid",
+            "request": "launch",
+            "mainClass": "deletemid",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch stackSort",
+            "request": "launch",
+            "mainClass": "stackSort",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch bit",
+            "request": "launch",
+            "mainClass": "bit",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch can",
+            "request": "launch",
+            "mainClass": "string.can",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch sort",
+            "request": "launch",
+            "mainClass": "sort",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch arraysort",
+            "request": "launch",
+            "mainClass": "arraysort",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonaci",
+            "request": "launch",
+            "mainClass": "fibonaci",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch printnumber",
+            "request": "launch",
+            "mainClass": "printnumber",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse",
+            "request": "launch",
+            "mainClass": "linkedlist.reverse",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch reversedoublylinkedlist",
+            "request": "launch",
+            "mainClass": "linkedlist.reversedoublylinkedlist",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch singly",
+            "request": "launch",
+            "mainClass": "linkedlist.singly",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch repeat",
+            "request": "launch",
+            "mainClass": "repeat",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch substring",
+            "request": "launch",
+            "mainClass": "substring",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch minimumindex",
+            "request": "launch",
+            "mainClass": "string.minimumindex",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch dot",
+            "request": "launch",
+            "mainClass": "string.dot",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dot",
+            "request": "launch",
+            "mainClass": "string.Dot",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch balance",
+            "request": "launch",
+            "mainClass": "string.balance",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch spilt",
+            "request": "launch",
+            "mainClass": "spilt",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch bitwise",
+            "request": "launch",
+            "mainClass": "bitwise",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrix",
+            "request": "launch",
+            "mainClass": "matrix",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch most",
+            "request": "launch",
+            "mainClass": "contest.most",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch count",
+            "request": "launch",
+            "mainClass": "count",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch target",
+            "request": "launch",
+            "mainClass": "string.target",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch Increase",
+            "request": "launch",
+            "mainClass": "Increase",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch increasing",
+            "request": "launch",
+            "mainClass": "recursion.increasing",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch ship",
+            "request": "launch",
+            "mainClass": "BinarySearch.ship",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch bouquet",
+            "request": "launch",
+            "mainClass": "BinarySearch.bouquet",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch piles",
+            "request": "launch",
+            "mainClass": "BinarySearch.piles",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch candies",
+            "request": "launch",
+            "mainClass": "BinarySearch.candies",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matrixmedian",
+            "request": "launch",
+            "mainClass": "Array.Matrixmedian",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch goodArray",
+            "request": "launch",
+            "mainClass": "goodArray",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch randquery",
+            "request": "launch",
+            "mainClass": "contest.randquery",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch ones",
+            "request": "launch",
+            "mainClass": "Array.ones",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeArray",
+            "request": "launch",
+            "mainClass": "Array.MergeArray",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Array.Solution",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mersort",
+            "request": "launch",
+            "mainClass": "sorting.Mersort",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReversePair",
+            "request": "launch",
+            "mainClass": "Array.ReversePair",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch Subset",
+            "request": "launch",
+            "mainClass": "Array.Subset",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch Median",
+            "request": "launch",
+            "mainClass": "BinarySearch.Median",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch fo",
+            "request": "launch",
+            "mainClass": "fo",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pratic",
+            "request": "launch",
+            "mainClass": "Pratic",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pratice",
+            "request": "launch",
+            "mainClass": "Pratice",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        },
+        {
+            "type": "java",
+            "name": "Launch command",
+            "request": "launch",
+            "mainClass": "command",
+            "projectName": "DAS-with-Sandeep-Jain_4aab3651"
+        }
+    ]
+}
