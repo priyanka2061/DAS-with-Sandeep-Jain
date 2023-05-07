@@ -6,7 +6,7 @@ public class minimumindex {
 
     // Function to find the minimum indexed character.
     public static int minIndexChar(String str, String patt) {
-        ArrayList<Character> arr = new ArrayList<>();
+nhj        ArrayList<Character> arr = new ArrayList<>();
         for (int i = 0; i < patt.length(); i++) {
             arr.add(patt.charAt(i));
         }
@@ -22,5 +22,5 @@ public class minimumindex {
          String str = "geeksforgeeks";
         String patt = "set";
         System.out.println(minIndexChar(str,  patt));
-    }
+    }   
 }

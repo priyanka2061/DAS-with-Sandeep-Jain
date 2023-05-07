@@ -3,7 +3,7 @@ package string;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Word {
+public class Word {     
     public boolean isItPossible(String word1, String word2) {
         Map<Character, Integer> map = new HashMap<>();
         Map<Character, Integer> map2 = new HashMap<>();
